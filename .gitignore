@@ -1,0 +1,5 @@
+books.csv
+books.json
+__pycache__/
+*.pyc
+.DS_Store
